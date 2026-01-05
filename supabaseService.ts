@@ -4,8 +4,8 @@ import { DailyReview, StockPick } from './types';
 // ------------------------------------------------------------------
 // CONFIGURATION: REPLACE THESE VALUES
 // ------------------------------------------------------------------
-const SUPABASE_URL = process.env.SUPABASE_URL || 'https://your-project-id.supabase.co';
-const SUPABASE_ANON_KEY = process.env.SUPABASE_KEY || 'your-anon-key';
+const SUPABASE_URL = process.env.SUPABASE_URL || 'https://vrpqghvflcppjjjehvkj.supabase.co';
+const SUPABASE_ANON_KEY = process.env.SUPABASE_KEY || 'sb_publishable_tjCJ3JR1U55bVBLpzgWzYQ_A4tgAu00';
 // ------------------------------------------------------------------
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
