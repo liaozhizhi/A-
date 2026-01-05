@@ -1,0 +1,5 @@
+{
+  "name": "AlphaA-Share (A股复盘)",
+  "description": "An iOS-styled A-share market analysis and stock picking application powered by Gemini and Supabase.",
+  "requestFramePermissions": []
+}
